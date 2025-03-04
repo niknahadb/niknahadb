@@ -1,6 +1,6 @@
 # Borna Niknahad
 
-**`Software Engineer / Studying Computer Science & Engineering at University of California, Davis`**
+**`Software Engineer studying Computer Science & Engineering at University of California, Davis`**
 
 Software engineer with 2 years of software engineering internship experience and 3 years web dev experience at CodeLab, Davis' largest software and design agency.
 
