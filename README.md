@@ -11,6 +11,8 @@ Check out our projects and more at @asucdirl on Instagram!
 
 In my free time, I like to read, exercise, play videogames with friends, explore nearby hiking trails, and craft my next perfect sandwich.
 
+Vist my personal website [here](https://borna-nik.vercel.app/)
+
 ---
 
 ### Programming Languages, Frameworks, and Tools:
