@@ -4,7 +4,7 @@
 
 Software engineer with 2 years of software engineering internship experience and 3 years web dev experience at CodeLab, Davis' largest software and design agency.
 
-Lead and organize [ucdhacknight.com](https://ucdhacknight.com/)_
+Lead and organize [ucdhacknight.com](https://ucdhacknight.com/)
 <br/>
 Check out our projects and more at @asucdirl on Instagram!
 
