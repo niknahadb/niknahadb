@@ -2,7 +2,7 @@
 
 **`Software Engineer and student at University of California, Davis studying Computer Science & Engineering`**
 
-Software engineer with 2 years of software engineering internship experience and 3 years web dev experience at CodeLab, Davis' largest software and design agency.
+Full-stack software engineer with 2 years of software engineering internship experience and 3 years web dev experience at CodeLab, Davis' largest software and design agency.
 
 Lead and organize [ucdhacknight.com](https://ucdhacknight.com/)
 <br/>
