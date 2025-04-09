@@ -73,6 +73,8 @@ Github: https://github.com/niknahadb/ASL-Translation-App
 
 Built an online learning platform for Davis’ largest software and design agency using Java and Typescript, vastly enhancing the platform’s scalability and performance for over 200+ active users
 
+Website: https://github.com/niknahadb/training-tool
+
 ### Programming Languages and Tools used:
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
