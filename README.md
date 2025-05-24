@@ -42,7 +42,7 @@ Vist my personal website [here](https://borna-nik.vercel.app/)
 
 ## Minesweeper DDQN
 
-I am training an agent to play Minesweeper on expert difficulty using reinforcement learning and a double deep-Q network.
+I trained an AI agent from scratch to play Minesweeper on expert difficulty using Reinforcement Learning and a Double Deep-Q network.
 
 Github: https://github.com/niknahadb/Minesweeper-DDQN
 
@@ -73,7 +73,8 @@ Github: https://github.com/niknahadb/ASL-Translation-App
 
 Built an online learning platform for Davis’ largest software and design agency using Java and Typescript, vastly enhancing the platform’s scalability and performance for over 200+ active users
 
-Website: https://github.com/niknahadb/training-tool
+Live website: https://toolkit.codelabdavis.com/
+Github: https://github.com/niknahadb/training-tool
 
 ### Programming Languages and Tools used:
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
