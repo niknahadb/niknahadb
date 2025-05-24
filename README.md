@@ -38,7 +38,7 @@ Vist my personal website [here](https://borna-nik.vercel.app/)
 <br/>
 <br/>
 
-# Recent Projects
+# Some of my favorite projects
 
 ## Minesweeper DDQN
 
