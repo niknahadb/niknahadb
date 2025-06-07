@@ -55,7 +55,7 @@ Github: https://github.com/niknahadb/Minesweeper-DDQN
 
 ## American Sign Language (ASL) Translation App
 
-I am developing an open source ASL Detection and Translation App that bridges the communication gap between individuals who primarily rely on ASL and those who use the spoken language.
+I created HORUS, an open source ASL Detection and Translation App that bridges the communication gap between individuals who primarily rely on ASL and those who use the spoken language.
 
 Github: https://github.com/niknahadb/ASL-Translation-App
 
