@@ -1,9 +1,3 @@
-# Borna
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=380&height=30&lines=builder.;engineer.;creative." alt="Typing SVG" /></a>
-</p>
-
 [new github here](https://github.com/borrna)
 
 ---
