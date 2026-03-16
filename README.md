@@ -1,6 +1,4 @@
-new github [here](https://github.com/borrna)
-
----
+# Borna ([new github]([url](https://github.com/borrna)))
 
 Creative builder and full-stack software engineer
 
